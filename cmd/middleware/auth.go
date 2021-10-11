@@ -1,9 +1,9 @@
 package middleware
 
 import (
-	"github.com/Jhonnycpp/lds-0221-common/cmd/constant"
-	"github.com/Jhonnycpp/lds-0221-common/cmd/errors"
 	"github.com/gin-gonic/gin"
+	"github.com/jhonnycpp/lds-0221-common/cmd/constant"
+	"github.com/jhonnycpp/lds-0221-common/cmd/errors"
 )
 
 type AuthMiddleware struct {

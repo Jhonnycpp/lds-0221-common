@@ -1,4 +1,4 @@
-module github.com/Jhonnycpp/lds-0221-common
+module github.com/jhonnycpp/lds-0221-common
 
 go 1.16
 
